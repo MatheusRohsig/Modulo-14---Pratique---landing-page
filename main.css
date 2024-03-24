@@ -1,0 +1,56 @@
+.navbar {
+    background-color: bisque;
+}
+
+
+.escrita {
+    font-family: Mochiy Pop One;
+    color:brown
+}
+
+.nav-link {
+    list-style: none;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+    color:brown
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.carousel-item img {
+    height: 700px;;
+}
+
+#quem-somos {
+    background-color:mistyrose
+}
+
+#nosso-acervo {
+    background-color: bisque
+}
+
+#faca-reserva {
+    background-color:mistyrose ;
+}
+
+#nossas-redes{
+    background-color: bisque;
+}
+
+.social-links li{
+    list-style: none;
+    
+}
+
+.social-links a{
+    text-decoration: none;
+}
+
+.btn {
+    background-color: bisque;
+    border: 1px solid black
+}
